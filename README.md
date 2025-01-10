@@ -24,6 +24,11 @@ facebook_clone_project/
 │   ├── style.css      # CSS file for styling
 │   └── script.js      # JavaScript file for form validation
 ```
+## Screenshot
+
+Here is a screenshot of the project in action:
+
+![Screenshot](Screenshot.png)
 
 ## Prerequisites
 
